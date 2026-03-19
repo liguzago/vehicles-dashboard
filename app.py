@@ -4,8 +4,7 @@ import streamlit as st
 import numpy as np
 
 # Leer datos
-car_data = pd.read_csv(
-    '/Users/lz/data_science/vehicles-dashboard/vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 car_data['brand'] = car_data['model'].str.split().str[0]
 
 # Título
