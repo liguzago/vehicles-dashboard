@@ -2,9 +2,7 @@
 ## Análisis Exploratorio — Mercado de Autos Usados en Estados Unidos
 
 ### Descripción
-AutoInsight US es una aplicación web interactiva desarrollada con Streamlit 
-que permite explorar los patrones del mercado de autos usados en Estados Unidos, 
-a partir de un dataset de 51,525 anuncios de vehículos.
+AutoInsight US es una aplicación web interactiva desarrollada con Streamlit que permite explorar los patrones del mercado de autos usados en Estados Unidos, a partir de un dataset de 51,525 anuncios de vehículos.
 
 ### Funcionalidad
 La aplicación permite al usuario explorar de forma interactiva:
@@ -23,3 +21,7 @@ La aplicación permite al usuario explorar de forma interactiva:
 
 ### Dataset
 `vehicles_us.csv` — 51,525 registros · 13 variables
+
+### 🔗 Links
+- 🌐 **App en vivo:** https://vehicles-dashboard-fus7.onrender.com
+- 💻 **Repositorio:** https://github.com/liguzago/vehicles-dashboard
